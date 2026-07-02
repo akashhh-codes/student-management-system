@@ -1,0 +1,4 @@
+# This project uses only Python Standard Library modules.
+
+# Python Version
+Python >= 3.10

@@ -1,0 +1,29 @@
+[
+    {
+        "id": 8,
+        "name": "Roohi",
+        "age": 15,
+        "course": "English",
+        "marks": 56.0,
+        "phone": "6666789459",
+        "email": "roohi@gmail.com"
+    },
+    {
+        "id": 9,
+        "name": "Hitesh",
+        "age": 12,
+        "course": "SST",
+        "marks": 87.0,
+        "phone": "8998908781",
+        "email": "hitesh@outlook.com"
+    },
+    {
+        "id": 10,
+        "name": "Vishal",
+        "age": 19,
+        "course": "GK",
+        "marks": 65.0,
+        "phone": "9965895432",
+        "email": "vishal@outlook.com"
+    }
+]
