@@ -86,7 +86,7 @@ python main.py
 Username
 
 ```
-admin
+akash
 ```
 
 Password
